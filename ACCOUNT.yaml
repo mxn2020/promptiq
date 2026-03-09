@@ -1,0 +1,12 @@
+services:
+  convex:
+    project: PromptIQ
+  vercel:
+    project: PromptIQ
+  stripe:
+    mode: live
+  nvidia:
+    api: nvidia-nims
+  github:
+    owner: mxn2020
+    repo: promptiq
