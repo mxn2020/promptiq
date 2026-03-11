@@ -1,15 +1,17 @@
 name: PromptIQ
+project_scope: main
+project_type: standalone
 description: AI prompt engineering and management tool
 tier: t3
 lane: fun
 priority: high
-category: app
-focus: active
-open_tasks: 0
 oss: true
 stack: [vite, react, typescript, convex]
-repo: https://github.com/mxn2020/promptiq
+repo: "https://github.com/mxn2020/promptiq"
 deploy_url: null
 last_active: 2026-03-09
-tags: [prompt,ai,engineering,convex]
+tags: [prompt, ai, engineering, convex]
 notes: null
+category: webapp
+focus: active
+open_tasks: 0
