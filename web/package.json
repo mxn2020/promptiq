@@ -53,7 +53,7 @@
   },
   "description": "AI prompt engineering and management tool",
   "author": "Mehdi Nabhani <mehdi@geenius.app>",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/mxn2020/promptiq.git"
